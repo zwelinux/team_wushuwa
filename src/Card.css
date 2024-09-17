@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    width: 300px;
+    height: 250px;
+    background-color: #123456;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card-h1 {
+    color: lightgreen
+}
+
+.card-p {
+    color: #fcfcfc
+}
