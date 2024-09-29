@@ -1,13 +1,13 @@
 // import
 import React from 'react'
-import ResponsiveAppBar from './Appbar'
+// import ResponsiveAppBar from './Appbar'
 import FetchData from './FetchData'
 
 // function
 const App = () => {
   return(
     <div>
-      <ResponsiveAppBar />
+      {/* <ResponsiveAppBar /> */}
       <FetchData />
     </div>
   )
